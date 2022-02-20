@@ -86,14 +86,15 @@
     list-style: none;
 }
 
-.clients{
+.client{
     width: 100%;
     border-radius: 50%;
     min-width: 20%;
 }
 
-/* own @media rule */
 
+/* own @media rule */
+/* 
 @media all and (max-width: 767px) {
     .client{
         max-width: 50%;
@@ -110,7 +111,7 @@
     .blockquote p{
         font-size: 0.8rem;
     }
-}
+} */
 
 
 /*============ BOOTSTRAP BREAK POINTS:
