@@ -92,12 +92,51 @@
     min-width: 20%;
 }
 
+/* footer */
+.footer{
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+
+  
+/* cards */
+.card-heading{
+    padding: 30px;
+    background-color: lightgrey;
+    margin-bottom: 0;
+  }
+  .card-img{
+    background-size: cover;
+    background-position: center;
+  }
+  .card {
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+
+  .card-title h5{
+      font-size: 1.8rem;
+  }
+  
+  .card-title h5:hover{
+      color: blue;
+  }
+  /* footer */
+  .footer{
+    font-size: 1.8rem;
+    font-weight: bold;
+    letter-spacing: 0.1rem;
+  }
+
+
 /* own @media rule */
 
 @media all and (max-width: 767px) {
     .client{
         max-width: 50%;
     }
+   
+   
 }
 
 @media all and (min-width: 768px) and (max-width: 991px){
@@ -110,6 +149,7 @@
     .blockquote p{
         font-size: 0.8rem;
     }
+   
 }
 
 
