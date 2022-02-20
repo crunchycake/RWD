@@ -92,6 +92,14 @@
     min-width: 20%;
 }
 
+/* footer */
+.footer{
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+
+
+
 /* own @media rule */
 
 @media all and (max-width: 767px) {
