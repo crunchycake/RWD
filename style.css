@@ -98,6 +98,30 @@
     font-weight: bold;
   }
 
+  
+/* cards */
+.card-heading{
+    padding: 30px;
+    background-color: lightgrey;
+    margin-bottom: 0;
+  }
+  .card-img{
+    background-size: cover;
+    background-position: center;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+
+  .card-title h5{
+      font-size: 1.8rem;
+  }
+  
+  /* footer */
+  .footer{
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
 
 
 /* own @media rule */
