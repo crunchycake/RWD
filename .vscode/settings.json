@@ -1,0 +1,7 @@
+{
+    "prettier.endOfLine": "auto",
+    "eslint.run": "onSave",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
+}
